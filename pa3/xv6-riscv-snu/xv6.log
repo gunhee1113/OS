@@ -1,0 +1,67 @@
+
+xv6 kernel is booting
+
+init: starting sh
+$ task2
+90 4 starts
+99 4 ends
+99 5 starts
+100 6 starts
+138 5 ends
+140 5 starts
+169 5 ends
+170 4 starts
+179 4 ends
+179 5 starts
+186 6 ends
+190 6 starts
+224 5 ends
+230 5 starts
+250 4 starts
+259 4 ends
+263 6 ends
+270 6 starts
+281 5 ends
+290 5 starts
+319 5 ends
+320 5 starts
+330 4 starts
+339 4 ends
+349 5 ends
+350 5 starts
+367 6 ends
+370 6 starts
+386 5 ends
+390 5 starts
+410 4 starts
+419 4 ends
+438 5 ends
+440 5 starts
+454 6 ends
+460 6 starts
+473 5 ends
+480 5 starts
+490 4 starts
+499 4 ends
+509 5 ends
+530 6 ends
+530 6 starts
+569 6 ends
+569 6 starts
+570 4 starts
+579 4 ends
+617 6 ends
+617 6 starts
+650 4 starts
+659 4 ends
+665 6 ends
+665 6 starts
+704 6 ends
+704 6 starts
+730 4 starts
+739 4 ends
+752 6 ends
+810 4 starts
+819 4 ends
+$ QEMU: Terminated
+
